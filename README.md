@@ -1,2 +1,3 @@
 # Open-Source-RBXLs
-IT'S FREE!
+
+Publishing small little Roblox projects I make here as I learn LuaU :)
