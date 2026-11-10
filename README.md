@@ -2,4 +2,4 @@
 
 Open Source Roblox projects.
 
-*Free use*
+*Free use WITH credit*
